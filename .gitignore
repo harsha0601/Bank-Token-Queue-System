@@ -1,0 +1,26 @@
+# Executable files
+bank_queue
+*.o
+*.out
+
+# Debugging
+*.gdb
+*.dSYM/
+core
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.a
+*.so
